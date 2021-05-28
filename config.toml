@@ -63,12 +63,6 @@ name = "contact"
 url = "#contact"
 weight = 7
 
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
-
-
 ################### French Navigation ########################
 [[Languages.fr.menu.main]]
 name = "sur"
@@ -104,11 +98,6 @@ weight = 6
 name = "contact"
 url = "#contact"
 weight = 7
-
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 
 ############################# Default Parameters ##########################
 [params]
