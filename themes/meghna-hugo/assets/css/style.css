@@ -1556,6 +1556,9 @@ input#e-mail,
 
 .copyright img {
   margin-bottom: 15px;
+  width: 300px;
+  max-width: 100%;
+  height: auto;
 }
 
 .copyright p {
