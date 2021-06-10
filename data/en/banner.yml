@@ -4,7 +4,7 @@ banner:
   bg_image : "images/backgrounds/van-branding.jpeg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Sterling Plumbing and Heating"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  content : "Hi, my name is Mike from Sterling Plumbing and Heating. I have been a qualified plumber since 1997 and have been carrying out gas work since 2015. I undertake all plumbing work, boiler servicing, landlord gas safety checks, boiler installation, boiler repairs, emergency call outs and works on vented and unvented hot water cylinders. I have built my reputation on being honest, very reliable and fairly priced. References are available on request. Fully insured and Gas Safe registered. I cover all BS areas, with other postcodes on request."
   button:
     enable : true
     label : "Explore Us"
