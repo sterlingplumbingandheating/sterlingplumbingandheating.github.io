@@ -3,9 +3,28 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-  button:
+  title : "Gas Appliance Safety Checks"
+  content : "It is vital that your gas appliances are safety checked regularly to reduce the risk of them becoming unsafe."
+  button :
     enable : true
-    label : "Start a project with us"
+    label : "Call us now to book your safety check"
     link : "#contact"
+  images :
+    - name : Boiler
+      image : images/cta/cta-1.jpg
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Boiler
+      image : images/cta/cta-2.jpg
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Boiler
+      image : images/cta/cta-3.jpg
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Boiler
+      image : images/cta/cta-4.jpg
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Boiler
+      image : images/cta/cta-5.jpg
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Boiler
+      image : images/cta/cta-6.jpg
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
