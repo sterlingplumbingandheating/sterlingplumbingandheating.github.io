@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Please feel free to call or email me with any questions or to discuss any work you need doing.
+  content : Please feel free to call or email me with any questions or to discuss any work you need doing. References are available on request.
 
   # Contact details
   contact_list:
@@ -14,7 +14,13 @@ contact:
       info : "Phone: 07538 262962"
 
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: Sterlingplumbingandheating@gmail.com"
+      info : "Email: <a href='mailto:sterlingplumbingandheating@gmail.com'>sterlingplumbingandheating@gmail.com</a>"
+
+    - icon : ti-link
+      info : "<a href='https://www.vaillant-advance.co.uk/findaninstaller' target='_blank'>Vaillant Find an Installer</a>"
+
+    - icon : ti-link
+      info : "<a href='https://www.gassaferegister.co.uk/find-an-engineer/business-engineers?type=standard&page=1&businessid=194399&centreid=148256&rno=629755'>Gas Safe Register</a>"
 
 
   # Contact form

@@ -16,10 +16,12 @@
 					{{"<!-- testimonial single -->" | safeHTML}}
 					<div class="item text-center">
 
+						{{ if .bg_image }}
 						{{"<!-- client photo -->" | safeHTML}}
 						<div class="client-thumb">
 							<img class="img-fluid lozad" data-src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 						</div>
+						{{ end }}
 
 						{{"<!-- client info -->" | safeHTML}}
 						<div class="client-info">

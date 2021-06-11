@@ -1,26 +1,15 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : false
+  enable : true
   bg_image : images/backgrounds/bg-testimonial.jpg
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Andy Furlong
+      date : Apr 04, 2019
+      content : Hi Mike, just wanted to drop you a line regardinging the new Worcester boiler you recently installed at our house. Myself and Cath would like to thank you for your professionalism and knowledge in fitting the boiler explaining everything thoroughly as you went about your installation. The radiators and water have never been so hot, and we seem to be spending less money on our gas card. Kind regards, Andy & Cath
 
     # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Glenn Barr
+      date : Jan 26, 2020
+      content : Having initially been called out to rescue a couple of birds that were stuck behind our gas fireplace (which has now been decommissioned), Mike now regularly checks and services our boiler. We have found him to be honest, reliable and trustworthy, and priced fairly to boot! Very happy to recommend Mike to anyone that needs work doing.
