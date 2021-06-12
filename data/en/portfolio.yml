@@ -7,107 +7,107 @@ portfolio:
     - name : Boiler
       image : images/portfolio/boiler-1.jpg
       categories : ["boilers"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Boiler
       image : images/portfolio/boiler-2.jpg
       categories : ["boilers"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Hot water cylinder
       image : images/portfolio/hwc-1.jpg
       categories : ["hot water cylinders"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Powerflush
       image : images/portfolio/powerflush-1.jpg
       categories : ["powerflush"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Boiler
       image : images/portfolio/boiler-3.jpg
       categories : ["boilers"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Hot water cylinder
       image : images/portfolio/hwc-2.jpg
       categories : ["hot water cylinders"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Boiler
       image : images/portfolio/boiler-4.jpg
       categories : ["boilers"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Powerflush
       image : images/portfolio/powerflush-2.jpg
       categories : ["powerflush"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Boiler
       image : images/portfolio/boiler-5.jpg
       categories : ["boilers"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Hot water cylinder
       image : images/portfolio/hwc-3.jpg
       categories : ["hot water cylinders"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Powerflush
       image : images/portfolio/powerflush-3.jpg
       categories : ["powerflush"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Boiler
       image : images/portfolio/boiler-6.jpg
       categories : ["boilers"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Hot water cylinder
       image : images/portfolio/hwc-4.jpg
       categories : ["hot water cylinders"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Boiler
       image : images/portfolio/boiler-7.jpg
       categories : ["boilers"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Powerflush
       image : images/portfolio/powerflush-4.jpg
       categories : ["powerflush"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Boiler
       image : images/portfolio/boiler-8.jpg
       categories : ["boilers"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Hot water cylinder
       image : images/portfolio/hwc-5.jpg
       categories : ["hot water cylinders"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
 
     - name : Boiler
       image : images/portfolio/boiler-9.jpg
       categories : ["boilers"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content :
       link : "https://themefisher.com"
