@@ -657,7 +657,8 @@ a:hover {
 
 .call-to-action p {
   font-size: 20px;
-  color: #666;
+  color: #000;
+  text-shadow: 0 0 10px white;
 }
 
 .call-to-action .btn-main {
