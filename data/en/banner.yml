@@ -1,7 +1,7 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image : "images/backgrounds/van-branding.jpeg"
+  bg_image : "images/backgrounds/sterling-van.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Sterling Plumbing and Heating"
   content : "Hi, my name is Mike. I have been a qualified plumber since 1997 and have been qualified to carry out gas work since 2015. I have built my reputation on being honest, very reliable and fairly priced. Fully insured and Gas Safe registered. I cover all BS areas, with other postcodes on request."
