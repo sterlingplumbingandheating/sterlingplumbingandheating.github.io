@@ -611,6 +611,13 @@ a:hover {
   color: #afbac4;
 }
 
+.about img {
+  display: block;
+  margin: auto;
+  max-width: 75px;
+  margin-top: 20px;
+}
+
 /*=================================================================
   About us 2 section
 ==================================================================*/

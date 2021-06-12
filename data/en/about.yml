@@ -5,12 +5,12 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : Qualified
-    content : 'I have been a qualified plumber since 1997 and have been carrying out gas work since 2015.'
+    content : 'I have been a qualified plumber since 1997 and have been qualified to carry out gas work since 2015. ![City & Guilds logo](../images/city-guilds.jpg)'
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-thumb-up # themify icon pack : https://themify.me/themify-icons
     title : Reputable
     content : 'I stake my reputation on being honest, reliable and fairly priced. References are available on request.'
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-lock # themify icon pack : https://themify.me/themify-icons
     title : Safe
-    content : 'Fully insured and Gas Safe registered. Gas Safe registration number: 629755.'
+    content : 'Fully insured and Gas Safe registered. Gas Safe registration number: 629755. ![Gas Safe Register logo](../images/gas-safe.jpg)'
