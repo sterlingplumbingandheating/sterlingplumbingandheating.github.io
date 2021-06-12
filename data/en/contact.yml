@@ -20,7 +20,10 @@ contact:
       info : "<a href='https://www.vaillant-advance.co.uk/findaninstaller' target='_blank'>Vaillant Find an Installer</a>"
 
     - icon : ti-link
-      info : "<a href='https://www.gassaferegister.co.uk/find-an-engineer/business-engineers?type=standard&page=1&businessid=194399&centreid=148256&rno=629755'>Gas Safe Register</a>"
+      info : "<a href='https://www.gassaferegister.co.uk/find-an-engineer/business-engineers?type=standard&page=1&businessid=194399&centreid=148256&rno=629755' target='_blank'>Gas Safe Register</a>"
+
+    - icon : ti-facebook
+      info : <a href="https://www.facebook.com/sterlingplumbingandheating.co.uk" target=_blank">facebook.com/sterlingplumbingandheating.co.uk</a>
 
 
   # Contact form
