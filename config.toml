@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-#baseURL = "https://sterlingplumbingandheating.co.uk"
-baseURL = "https://sterlingplumbingandheating.github.io"
+baseURL = "https://sterlingplumbingandheating.co.uk"
+#baseURL = "https://sterlingplumbingandheating.github.io"
 title = "Sterling Plumbing and Heating"
 theme = "meghna-hugo"
 # themesDir = "../.."
