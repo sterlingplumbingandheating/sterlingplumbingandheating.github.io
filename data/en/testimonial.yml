@@ -4,12 +4,14 @@ testimonial:
   bg_image : images/backgrounds/bg-testimonial.jpg
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
-    # testimonial item loop
-    - name : Andy Furlong
-      date : Apr 04, 2019
-      content : Hi Mike, just wanted to drop you a line regardinging the new Worcester boiler you recently installed at our house. Myself and Cath would like to thank you for your professionalism and knowledge in fitting the boiler explaining everything thoroughly as you went about your installation. The radiators and water have never been so hot, and we seem to be spending less money on our gas card. Kind regards, Andy & Cath
+    - name : Joyce Coleman
+      date : 20 Jul, 2021
+      content : After moving to Clevedon we needed a plumber for a few jobs that needed doing. After 2 or 3 let downs I posted on Facebook group We are Clevedon for help. Mike from Sterling Plumbing and Heating contacted me privately and came round to give us a quote for the work plus a date he could start. We purchased the items needed and he completed the work. Mike kept us fully informed of dates and times he would be here and did a very good job. We have subsequently had Mike back for other plumbing jobs that have arisen. I highly recommend him.
 
-    # testimonial item loop
     - name : Glenn Barr
       date : Jan 26, 2020
       content : Having initially been called out to rescue a couple of birds that were stuck behind our gas fireplace (which has now been decommissioned), Mike now regularly checks and services our boiler. We have found him to be honest, reliable and trustworthy, and priced fairly to boot! Very happy to recommend Mike to anyone that needs work doing.
+
+    - name : Andy Furlong
+      date : Apr 04, 2019
+      content : Hi Mike, just wanted to drop you a line regardinging the new Worcester boiler you recently installed at our house. Myself and Cath would like to thank you for your professionalism and knowledge in fitting the boiler explaining everything thoroughly as you went about your installation. The radiators and water have never been so hot, and we seem to be spending less money on our gas card. Kind regards, Andy & Cath
