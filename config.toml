@@ -101,7 +101,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/logo2.jpg"
 # Meta data
 description = "Sterling Plumbing and Heating providing all of your home plumbing and heating needs in the Bristol BS20 postcode area."
 author = "Mike Hutchings"
@@ -113,7 +113,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/logo.png"
+preloader = "images/logo2.jpg"
 
 # cookies
 [params.cookies]
